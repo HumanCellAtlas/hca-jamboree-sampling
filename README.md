@@ -1,4 +1,4 @@
-# Task 2: Where should I more deeply sequence?
+# HCA Jamboree 2: Where should I more deeply sequence?
 
 The objective of this task is to select sequential experiments such that we find the most accurate estimates of densities across the space of cell states (as defined by transcriptional profiles) with the smallest number of experiments. 
 
